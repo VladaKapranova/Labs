@@ -10,7 +10,7 @@ long factorial(int number) // factorial calculation function
 	return result;
 }
 
-int main()
+int main() // Data Input
 {
 	int x;
 	long result;
